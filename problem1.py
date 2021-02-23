@@ -9,6 +9,7 @@ Created: 23/02/2021
 ------------------------------------------------------------------------------
 """
 #Input the speed limit and the recorded speed of the car
+print ("Radar Fine Checker")
 speed_limit = int(input("Enter the speed limit: "))
 record_speed = int(input("Enter the recorded speed of the car: "))
 
